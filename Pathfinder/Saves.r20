@@ -1,0 +1,5 @@
+/me resists with all their might
+@{selected|PC-whisper} &{template:pf_attack}  @{selected|toggle_rounded_flag} {{font=@{selected|apply_specfont_chat}@{selected|use_specfont}}} {{scroll_desc=@{selected|scroll-desc}}} {{color=@{selected|rolltemplate_color}}} {{character_name=@{selected|character_name}}} {{character_id=@{selected|character_id}}} {{subtitle}} {{name=Saves}} {{?{Save|
+Fortitude,Fortitude=[[1d20+@{selected|fort}+?{Bonus &#124;0&#125;]]|
+Reflex,Reflex=[[1d20+@{selected|ref}+?{Bonus &#124;0&#125;]]|
+Will,Will=[[1d20+@{selected|will}+?{Bonus &#124;0&#125; ]] } }}
