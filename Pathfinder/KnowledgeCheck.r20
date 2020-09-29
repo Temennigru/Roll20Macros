@@ -1,12 +1,12 @@
 /me Accesses their vast knowledge of the natural (and supernatural) world
-@{selected|PC-whisper} &{template:pf_attack}  @{selected|toggle_rounded_flag} {{font=@{selected|apply_specfont_chat}@{selected|use_specfont}}} {{scroll_desc=@{selected|scroll-desc}}} {{color=@{selected|rolltemplate_color}}} {{character_name=@{selected|character_name}}} {{character_id=@{selected|character_id}}} {{subtitle}} {{name=Knowledge}} {{?{Knowledge|
-Arcana,Arcana=[[1d20+@{selected|knowledge-arcana}+?{Bonus &#124;0&#125;]]|
-Dungeoneering,Dungeoneering=[[1d20+@{selected|knowledge-dungeoneering}+?{Bonus &#124;0&#125;]]|
-Engineering,Engineering=[[1d20+@{selected|knowledge-engineering}+?{Bonus &#124;0&#125;]]|
-Geography,Geography=[[1d20+@{selected|knowledge-geography}+?{Bonus &#124;0&#125;]]|
-History,History=[[1d20+@{selected|knowledge-history}+?{Bonus &#124;0&#125;]]|
-Local,Local=[[1d20+@{selected|knowledge-local}+?{Bonus &#124;0&#125;]]|
-Nature,Nature=[[1d20+@{selected|knowledge-nature}+?{Bonus &#124;0&#125;]]|
-Nobility,Nobility=[[1d20+@{selected|knowledge-nobility}+?{Bonus &#124;0&#125;]]|
-Planes,Planes=[[1d20+@{selected|knowledge-planes}+?{Bonus &#124;0&#125;]]|
-Religion,Religion=[[1d20+@{selected|knowledge-religion}+?{Bonus &#124;0&#125;]] } }}
+@{selected|PC-whisper} &{template:pf_attack}  @{selected|toggle_rounded_flag} {{font=@{selected|apply_specfont_chat}@{selected|use_specfont}}} {{scroll_desc=@{selected|scroll-desc}}} {{color=@{selected|rolltemplate_color}}} {{character_name=@{selected|character_name}}} {{character_id=@{selected|character_id}}} {{subtitle}} {{name=Knowledge}} {{header_image=[Knowledge](https://raw.githubusercontent.com/Roll20/roll20-character-sheets/master/Pathfinder%20Community/Images/pf_block.png)}}   {{?{Knowledge|
+Arcana,Arcana=[[1d20+@{selected|knowledge-arcana}+?{Bonus |0}]]|
+Dungeoneering,Dungeoneering=[[1d20+@{selected|knowledge-dungeoneering}+?{Bonus |0}]]|
+Engineering,Engineering=[[1d20+@{selected|knowledge-engineering}+?{Bonus |0}]]|
+Geography,Geography=[[1d20+@{selected|knowledge-geography}+?{Bonus |0}]]|
+History,History=[[1d20+@{selected|knowledge-history}+?{Bonus |0}]]|
+Local,Local=[[1d20+@{selected|knowledge-local}+?{Bonus |0}]]|
+Nature,Nature=[[1d20+@{selected|knowledge-nature}+?{Bonus |0}]]|
+Nobility,Nobility=[[1d20+@{selected|knowledge-nobility}+?{Bonus |0}]]|
+Planes,Planes=[[1d20+@{selected|knowledge-planes}+?{Bonus |0}]]|
+Religion,Religion=[[1d20+@{selected|knowledge-religion}+?{Bonus |0}]] } }}
